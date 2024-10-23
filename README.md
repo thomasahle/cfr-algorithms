@@ -1,0 +1,11 @@
+## Based on 
+- CFR-D: https://arxiv.org/pdf/1303.4441
+- ReBeL: https://arxiv.org/pdf/2007.13544
+- DeepStack: https://arxiv.org/pdf/1701.01724
+- Student of Games: https://arxiv.org/abs/2112.03178
+- Noam Brown's thesis: http://reports-archive.adm.cs.cmu.edu/anon/2020/CMU-CS-20-132.pdf
+- Martin Schmid's thesis: https://arxiv.org/abs/2111.05884
+- Neil Burch's thesis: https://poker.cs.ualberta.ca/publications/Burch_Neil_E_201712_PhD.pdf
+- Tuomas Sandholm's lecture notes: https://www.cs.cmu.edu/~sandholm/cs15-888F24/
+- Online MC-CFR: https://mlanctot.info/files/papers/aamas15-iioos.pdf
+- NFSP: https://arxiv.org/pdf/1603.01121
